@@ -1,2 +1,2 @@
 # ny-lotto-bash
-Display winning for NY Lotto drawings
+Display winning numbers for NY Lotto drawings
